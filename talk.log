@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2026.3.29)  29 MAR 2026 03:09
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2026.4.1)  9 APR 2026 19:10
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1171,14 +1171,8 @@ braces):
 >  {russian/babelname}  =>  {russian}
 >  {russian/localnumeral}  =>  {russiannumerals}
 >  {russian/Localnumeral}  =>  {Russiannumerals}.
-
-
-Package polyglossia Warning: No hyphenation patterns were loaded for `russian'
-(polyglossia)                I will use \language=\l@nohyphenation instead on i
-nput line 17.
-
-\l@russian = a dialect from \language\l@nohyphenation 
 Package polyglossia Info: Option: Russian, numerals=arabic.
+
 (/usr/share/texlive/texmf-dist/tex/latex/polyglossia/babelsh.def
 File: babelsh.def 2019/09/30 Babel common definitions for shorthands
  Taken verbatim from babel files (2019/09/27 v3.34)
@@ -1856,12 +1850,12 @@ Package rerunfilecheck Info: File `talk.out' has not changed.
 (rerunfilecheck)             Checksum: 38F1AED3F90A2E26E3640EC6CD145B91;121.
  ) 
 Here is how much of TeX's memory you used:
- 37864 strings out of 478158
- 870902 string characters out of 5853402
- 1174795 words of memory out of 5000000
- 57595 multiletter control sequences out of 15000+600000
+ 37864 strings out of 477416
+ 870910 string characters out of 5844819
+ 1176034 words of memory out of 5000000
+ 57604 multiletter control sequences out of 15000+600000
  479960 words of font info for 180 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
+ 682 hyphenation exceptions out of 8191
  128i,15n,122p,393b,892s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on talk.xdv (14 pages, 118992 bytes).
+Output written on talk.xdv (14 pages, 119060 bytes).
