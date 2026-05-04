@@ -1,4 +1,4 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\selectlanguage{#1}\fi}
@@ -10,5 +10,147 @@
 \ProvideTextCommandDefault{\cyrdash}{\hbox to.8em{--\hss--}}
 \providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em\fi
 \cyrdash\hskip.2em\ignorespaces}
+
+\bibitem{Bootstrap}
+\selectlanguageifdefined{english}
+Bootstrap. \BibDash
+\newblock URL: \url{https://getbootstrap.com/}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{actions}
+\selectlanguageifdefined{english}
+Github Actions. \BibDash
+\newblock URL: \url{https://github.com/features/actions}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{MATLAB_toolbox}
+\selectlanguageifdefined{english}
+MATLAB Sensor Fusion and Tracking Toolbox. \BibDash
+\newblock URL:
+  \url{https://www.mathworks.com/products/sensor-fusion-and-tracking.html}.
+  \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{Original_SPSA}
+\selectlanguageifdefined{english}
+Oleg Granichin, Senior Member, IEEE, and Natalia Amelina. Simultaneous
+  Perturbation Stochastic Approximation for Tracking Under Unknown but Bounded
+  Disturbances. \BibDash
+\newblock URL:
+  \url{https://www.researchgate.net/publication/277028715_Simultaneous_Perturbation_Stochastic_Approximation_for_Tracking_Under_Unknown_but_Bounded_Disturbances}.
+  \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{Repast}
+\selectlanguageifdefined{english}
+Repast. \BibDash
+\newblock URL: \url{https://repast.github.io/}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{Distributed_Kalman}
+\selectlanguageifdefined{english}
+Ruggero Carli, Alessandro Chiuso, Luca Schenato, Sandro Zampieri. Distributed
+  Kalman ﬁltering based on consensusstrategies. \BibDash
+\newblock URL:
+  \url{https://www.researchgate.net/publication/3236793_Distributed_Kalman_filtering_based_on_consensus_strategies}.
+  \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{SIMLAN}
+\selectlanguageifdefined{english}
+SIMLAN. \BibDash
+\newblock URL: \url{https://github.com/infotiv-research/SIMLAN}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{Accelerated_SPSA}
+\selectlanguageifdefined{english}
+Victoria Erofeeva, Oleg Granichin, Senior Member, IEEE, Anna Sergeenko.
+  Accelerated Consensus-Based SPSA Algorithm for Multisensor Multitarget
+  Tracking Problem. \BibDash
+\newblock URL:
+  \url{https://www.researchgate.net/publication/403227441_Accelerated_Consensus-Based_SPSA_Algorithm_for_Multisensor_Multitarget_Tracking_Problem}.
+  \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{youngSc}
+\selectlanguageifdefined{english}
+XXVIII конференция молодых ученых «Навигация
+  и управление движением» с международным
+  участием. \BibDash
+\newblock URL: \url{https://elektropribor.spb.ru/young-scientists-conference/}.
+  \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{elektropribor}
+\selectlanguageifdefined{english}
+АО «Концерн «ЦНИИ «Электроприбор». \BibDash
+\newblock URL: \url{https://elektropribor.spb.ru/}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{PostgreSQL}
+\selectlanguageifdefined{english}
+База данных PostgreSQL. \BibDash
+\newblock URL: \url{https://www.postgresql.org/}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{sqlite3}
+\selectlanguageifdefined{english}
+База данных SQLite3. \BibDash
+\newblock URL: \url{https://docs.python.org/3/library/sqlite3.html}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{Matplotlib}
+\selectlanguageifdefined{english}
+Библиотека Matplotlib. \BibDash
+\newblock URL: \url{https://matplotlib.org/}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{NumPy}
+\selectlanguageifdefined{english}
+Библиотека NumPy. \BibDash
+\newblock URL: \url{https://numpy.org/}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{SciPy}
+\selectlanguageifdefined{english}
+Библиотека SciPy. \BibDash
+\newblock URL: \url{https://scipy.org/}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{pytest}
+\selectlanguageifdefined{english}
+Библиотека pytest. \BibDash
+\newblock URL: \url{https://docs.pytest.org/en/stable/}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{Django}
+\selectlanguageifdefined{english}
+Веб-фреймворк Django. \BibDash
+\newblock URL: \url{ https://www.djangoproject.com/}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{psycopg2}
+\selectlanguageifdefined{english}
+Драйвер psycopg2. \BibDash
+\newblock URL: \url{https://pypi.org/project/psycopg2/}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{spisok}
+\selectlanguageifdefined{english}
+Конференция СПИСОК-2026. \BibDash
+\newblock URL: \url{https://spisok.math.spbu.ru/2026/s4.asp}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{pytestdjango}
+\selectlanguageifdefined{english}
+Плагин для pytest pytest-django. \BibDash
+\newblock URL: \url{https://pytest-django.readthedocs.io/en/latest/}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
+\bibitem{Python}
+\selectlanguageifdefined{english}
+Язык Python. \BibDash
+\newblock URL: \url{https://www.python.org/ }. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
 
 \end{thebibliography}

@@ -181,7 +181,6 @@
 \fancypagestyle{withCompileDate}{%
     \fancyhf{}
     \fancyfoot[C]{\thepage}
-    \fancyfoot[R]{\small Дата сборки: \today}
     \renewcommand{\headrulewidth}{0pt}
 }
 
