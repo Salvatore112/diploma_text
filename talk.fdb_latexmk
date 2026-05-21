@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1775751058 "talk.xdv" "talk.pdf" "talk" 1775751059
-  "talk.xdv" 1775751058 119060 ff85d1b30a5964eeb1686f435445fba9 "xelatex"
+["xdvipdfmx"] 1778446013 "talk.xdv" "talk.pdf" "talk" 1778446014
+  "talk.xdv" 1778446013 119060 27a648c1da9f71224122301a3fe77a89 "xelatex"
   (generated)
   "talk.pdf"
-["xelatex"] 1775751055 "talk.tex" "talk.xdv" "talk" 1775751059
+["xelatex"] 1778446012 "talk.tex" "talk.xdv" "talk" 1778446014
   "/etc/texmf/web2c/texmf.cnf" 1728763399 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -287,12 +287,12 @@
   "figures/in3.pdf" 1775750846 12724 d83dbab207c5fa29c3971d80972225c8 ""
   "figures/out3.pdf" 1775750846 20180 c262993805d4df498645c5628299dee3 ""
   "preamble.tex" 1775750846 4154 31e41b53c437a01a0de2f3c11b9602dc ""
-  "pretitle.tex" 1775750846 3228 4a800c2058916a263f7c24362e960cf8 ""
-  "talk.aux" 1775751058 4064 bb286ae3bc05742a1f93612eac44e00b "xelatex"
-  "talk.nav" 1775751058 1859 ff51ecdb0246009e979d42cc3ee29976 "xelatex"
-  "talk.out" 1775751058 121 38f1aed3f90a2e26e3640ec6cd145b91 "xelatex"
+  "pretitle.tex" 1778445844 3228 4a800c2058916a263f7c24362e960cf8 ""
+  "talk.aux" 1778446013 4064 bb286ae3bc05742a1f93612eac44e00b "xelatex"
+  "talk.nav" 1778446013 1859 ff51ecdb0246009e979d42cc3ee29976 "xelatex"
+  "talk.out" 1778446013 121 38f1aed3f90a2e26e3640ec6cd145b91 "xelatex"
   "talk.tex" 1775750846 13825 c0273db9d8beb674cf49487ea01d1ad6 ""
-  "title.tex" 1775751052 9005 c92ffeea5a85ccf9500c982f6ed0ff94 ""
+  "title.tex" 1778446005 9030 f0adab46a1cef7688dc0433c731764c3 ""
   (generated)
   "talk.aux"
   "talk.log"
