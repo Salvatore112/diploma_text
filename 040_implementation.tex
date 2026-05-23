@@ -93,7 +93,11 @@
 
 \begin{figure}[H]
     \centering
-    \makebox[\textwidth][c]{\includegraphics[width=1.08\textwidth]{mutual.png}}
+    \makebox[\textwidth][c]{%
+        \includegraphics[width=0.58\textwidth]{mut_left_part.png}%
+        \hfill
+        \includegraphics[width=0.58\textwidth]{mut_right_part.png}%
+    }
     \caption{Совмещённые траектории и ошибки для всех алгоритмов}
     \label{fig:mutual}
 \end{figure}
@@ -102,7 +106,11 @@
 
 \begin{figure}[H]
     \centering
-    \makebox[\textwidth][c]{\includegraphics[width=1.08\textwidth]{specific.png}}
+    \makebox[\textwidth][c]{%
+        \includegraphics[width=0.58\textwidth]{Ind_left_part.png}%
+        \hfill
+        \includegraphics[width=0.58\textwidth]{Ind_right_part.png}%
+    }
     \caption{Оценка конкретного сенсора за конкретной целью}
     \label{fig:specific}
 \end{figure}
