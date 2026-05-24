@@ -24,6 +24,7 @@
 В качестве СУБД в проекте используется \texttt{SQLite3} \cite{sqlite3} (на этапе разработки) с возможностью переключения на \texttt{PostgreSQL} \cite{PostgreSQL} через драйвер \texttt{psycopg2} \cite{psycopg2}.
 
 \textbf{Библиотеки для научных вычислений и визуализации.}
+Для реализации алгоритмов, симуляции и визуализации резульатов был использован ряд популярных в индустрии и науке библиотек: 
 \begin{itemize}
     \item \texttt{NumPy 2.3.3} --- для работы с многомерными массивами, выполнения матричных операций и линейно-алгебраических преобразований;
     \item \texttt{Matplotlib 3.10.6} --- для построения графиков траекторий движения целей и визуализации сходимости ошибок оценок;
@@ -76,9 +77,9 @@
 
 В проекте реализованы три встроенных алгоритма, описанные далее в работе:
 \begin{itemize}
-    \item \textbf{Original SPSA + Consensus \cite{Original_SPSA}};
-    \item \textbf{Accelerated SPSA + Consensus \cite{Accelerated_SPSA}};
-    \item \textbf{Distributed Kalman Filter \cite{Distributed_Kalman}}.
+    \item \textbf{Алгоритм на основе SPSA (Simultaneous Perturbation Stochastic Approximation — стохастическая аппроксимация одновременного возмущения) + консенсус \cite{Original_SPSA}};
+    \item \textbf{Ускоренный алгоритм на основе SPSA + консенсус \cite{Accelerated_SPSA}};
+    \item \textbf{Распределенный фильтр Калмана \cite{Distributed_Kalman}}.
 \end{itemize}
 
 Пользовательские алгоритмы загружаются через веб-форму, после чего становятся доступными для выбора в интерфейсе настройки симуляции наравне со встроенными.
@@ -146,6 +147,8 @@
 
 \paragraph{Пояснение основных шагов.}
 
+Ниже описаны основные шаги работы алгоритма на основе SPSA, который подробно описан в статье «Simultaneous Perturbation Stochastic Approximation for Tracking Under Unknown but Bounded Disturbances». 
+
 \begin{enumerate}
 
 \item \textbf{Генерация возмущений.}  
@@ -200,7 +203,7 @@ y_{2k-1}^i = f_{\xi_{2k-1}}^i(\mathbf{x}_{2k-1}^i).
 
 \end{enumerate}
 
-\paragraph{Ускоренный алгоритм на основе SPSA + Консенсус}
+\paragraph{Ускоренный алгоритм на основе SPSA + консенсус}
 
 
 \[
@@ -218,6 +221,8 @@ y_{2k-1}^i = f_{\xi_{2k-1}}^i(\mathbf{x}_{2k-1}^i).
 \]
 
 \paragraph{Пояснение основных шагов.}
+
+Ниже описаны основные шаги работы ускоренного алгоритма на основе SPSA, который подробно описан в статье «Accelerated Consensus-Based SPSA Algorithm for Multisensor Multitarget Tracking Problem». 
 
 \begin{enumerate}
 
@@ -322,6 +327,8 @@ y_{2k-1}^i = f_{\xi_{2k-1}}^i(\mathbf{x}_{2k-1}^i).
 \end{itemize}
 
 \paragraph{Пояснение основных шагов.}
+
+Ниже описаны основные шаги работы фильтра Калмана. 
 
 \begin{itemize}
 

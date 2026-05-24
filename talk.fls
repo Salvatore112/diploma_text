@@ -1,4 +1,4 @@
-PWD /home/pasha/diploma_text
+PWD /home/pasha/diploma_stuff/diploma_text
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
@@ -1869,18 +1869,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
-INPUT ./figures/in3.pdf
-INPUT ./figures/in3.pdf
-INPUT figures/in3.pdf
-INPUT ./figures/out3.pdf
-INPUT ./figures/out3.pdf
-INPUT figures/out3.pdf
-INPUT ./figures/Activ_SEL_Processing.pdf
-INPUT ./figures/Activ_SEL_Processing.pdf
-INPUT figures/Activ_SEL_Processing.pdf
-INPUT ./figures/dist.png
-INPUT ./figures/dist.png
-INPUT figures/dist.png
 OUTPUT talk.nav
 OUTPUT talk.toc
 OUTPUT talk.snm

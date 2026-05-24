@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1778446013 "talk.xdv" "talk.pdf" "talk" 1778446014
-  "talk.xdv" 1778446013 119060 27a648c1da9f71224122301a3fe77a89 "xelatex"
+["xdvipdfmx"] 1779590319 "talk.xdv" "talk.pdf" "talk" 1779590319
+  "talk.xdv" 1779590298 118728 cb6bb303e61108bed1d18e000e6bf494 "xelatex"
   (generated)
   "talk.pdf"
-["xelatex"] 1778446012 "talk.tex" "talk.xdv" "talk" 1778446014
+["xelatex"] 1779590296 "talk.tex" "talk.xdv" "talk" 1779590319
   "/etc/texmf/web2c/texmf.cnf" 1728763399 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -281,18 +281,18 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1775054003 3766802 90364511efc4d078f5b782cfc9c5c1e1 ""
-  "beamerthemeSPbGU.sty" 1775750846 1261 1eadc7edf08d99b55ec9f30a2f6e62ca ""
-  "figures/Activ_SEL_Processing.pdf" 1775750846 232479 c71cffe324e3259db99e642a26b04675 ""
-  "figures/dist.png" 1775750846 74846 5994c78d2c8ee68f9d90a7da8e66ae72 ""
-  "figures/in3.pdf" 1775750846 12724 d83dbab207c5fa29c3971d80972225c8 ""
-  "figures/out3.pdf" 1775750846 20180 c262993805d4df498645c5628299dee3 ""
-  "preamble.tex" 1775750846 4154 31e41b53c437a01a0de2f3c11b9602dc ""
-  "pretitle.tex" 1778445844 3228 4a800c2058916a263f7c24362e960cf8 ""
-  "talk.aux" 1778446013 4064 bb286ae3bc05742a1f93612eac44e00b "xelatex"
-  "talk.nav" 1778446013 1859 ff51ecdb0246009e979d42cc3ee29976 "xelatex"
-  "talk.out" 1778446013 121 38f1aed3f90a2e26e3640ec6cd145b91 "xelatex"
-  "talk.tex" 1775750846 13825 c0273db9d8beb674cf49487ea01d1ad6 ""
-  "title.tex" 1778446005 9030 f0adab46a1cef7688dc0433c731764c3 ""
+  "beamerthemeSPbGU.sty" 1779370991 1261 1eadc7edf08d99b55ec9f30a2f6e62ca ""
+  "figures/Activ_SEL_Processing.pdf" 0 -1 0 ""
+  "figures/dist.png" 0 -1 0 ""
+  "figures/in3.pdf" 0 -1 0 ""
+  "figures/out3.pdf" 0 -1 0 ""
+  "preamble.tex" 1779370991 4154 31e41b53c437a01a0de2f3c11b9602dc ""
+  "pretitle.tex" 1779370991 3228 4a800c2058916a263f7c24362e960cf8 ""
+  "talk.aux" 1779590298 4064 bb286ae3bc05742a1f93612eac44e00b "xelatex"
+  "talk.nav" 1779590298 1859 ff51ecdb0246009e979d42cc3ee29976 "xelatex"
+  "talk.out" 1779590298 121 38f1aed3f90a2e26e3640ec6cd145b91 "xelatex"
+  "talk.tex" 1779590012 13825 c0273db9d8beb674cf49487ea01d1ad6 ""
+  "title.tex" 1779370991 9030 f0adab46a1cef7688dc0433c731764c3 ""
   (generated)
   "talk.aux"
   "talk.log"

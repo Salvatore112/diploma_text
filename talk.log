@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2026.4.1)  10 MAY 2026 23:46
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2026.4.1)  24 MAY 2026 05:38
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1744,10 +1744,74 @@ Overfull \hbox (260.00911pt too wide) in paragraph at lines 161--161
 []$[]$ 
  []
 
+
+LaTeX Warning: File `figures/in3.pdf' not found on input line 161.
+
+./talk.tex:161: Unable to load picture or PDF file 'figures/in3.pdf'.
+<to be read again> 
+                   }
+l.161 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./talk.tex:161: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 File: figures/in3.pdf Graphic file (type pdf)
 <use figures/in3.pdf>
+./talk.tex:161: Unable to load picture or PDF file 'figures/in3.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.161 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+LaTeX Warning: File `figures/out3.pdf' not found on input line 161.
+
+./talk.tex:161: Unable to load picture or PDF file 'figures/out3.pdf'.
+<to be read again> 
+                   }
+l.161 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./talk.tex:161: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 File: figures/out3.pdf Graphic file (type pdf)
 <use figures/out3.pdf>
+./talk.tex:161: Unable to load picture or PDF file 'figures/out3.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.161 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
 [7
 
 ]
@@ -1760,20 +1824,75 @@ Missing character: There is no 2 ("32) in font nullfont!
 [8
 
 ]
+
+LaTeX Warning: File `figures/Activ_SEL_Processing.pdf' not found on input line 
+192.
+
+./talk.tex:192: Unable to load picture or PDF file 'figures/Activ_SEL_Processin
+g.pdf'.
+<to be read again> 
+                   }
+l.192 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./talk.tex:192: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.192 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 File: figures/Activ_SEL_Processing.pdf Graphic file (type pdf)
 <use figures/Activ_SEL_Processing.pdf>
-
-Overfull \vbox (5.92905pt too high) detected at line 192
- []
+./talk.tex:192: Unable to load picture or PDF file 'figures/Activ_SEL_Processin
+g.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.192 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
 
 [9
 
 ] [10
 
 ]
+
+LaTeX Warning: File `figures/dist.png' not found on input line 214.
+
+./talk.tex:214: Unable to load picture or PDF file 'figures/dist.png'.
+<to be read again> 
+                   }
+l.214 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./talk.tex:214: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.214 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 File: figures/dist.png Graphic file (type bmp)
 <figures/dist.png>
- [11
+[11
 
 ] [12
 
@@ -1850,12 +1969,12 @@ Package rerunfilecheck Info: File `talk.out' has not changed.
 (rerunfilecheck)             Checksum: 38F1AED3F90A2E26E3640EC6CD145B91;121.
  ) 
 Here is how much of TeX's memory you used:
- 37864 strings out of 477416
- 870910 string characters out of 5844819
- 1176063 words of memory out of 5000000
- 57604 multiletter control sequences out of 15000+600000
+ 38064 strings out of 477416
+ 876255 string characters out of 5844819
+ 1176062 words of memory out of 5000000
+ 57780 multiletter control sequences out of 15000+600000
  479960 words of font info for 180 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
  128i,15n,122p,393b,892s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on talk.xdv (14 pages, 119060 bytes).
+Output written on talk.xdv (14 pages, 118728 bytes).
