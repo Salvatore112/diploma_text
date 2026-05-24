@@ -11,6 +11,12 @@
 \providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em\fi
 \cyrdash\hskip.2em\ignorespaces}
 
+\bibitem{Applied}
+\selectlanguageifdefined{english}
+ApPLIED Workshop. \BibDash
+\newblock URL: \url{https://www.cse.chalmers.se/~elad/ApPLIED2026/}. \BibDash
+\newblock (дата обращения: 4 мая 2026 г.).
+
 \bibitem{Bootstrap}
 \selectlanguageifdefined{english}
 Bootstrap. \BibDash
